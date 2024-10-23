@@ -1,5 +1,7 @@
 # Atte
-企業向けの勤怠管理アプリです。
+企業向けの勤怠管理アプリです。</br>
+</br>
+ホーム画面
 <img width="1470" alt="Atte ホーム画面" src="https://github.com/user-attachments/assets/50d9424c-0df2-4983-bc59-bcc3823b1f2a">
 
 ## 作成した目的
